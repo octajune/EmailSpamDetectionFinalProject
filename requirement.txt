@@ -1,0 +1,10 @@
+streamlit
+pickle
+string
+numpy
+pandas
+nltk
+seaborn
+re
+wordcloud
+xgboost
