@@ -1,2 +1,26 @@
-# EmailSpamDetectionFinalProject
-It's my final project for my college finals.
+# EmailSpamDetection 
+
+## Table of Content
+  * ABSTRACT
+  * INTRODUCTION
+  * DIFFERENCE BETWEEN SPAM AND NORMAL E-MAILS	
+  * PROBLEM STATEMENT	
+  * OBJECTIVE	
+  * LITERATURE REVIEW	
+  * METHODOLOGY	
+  * CONCLUSION
+
+## ABSTRACT
+The upsurge in the volume of unwanted emails called spam has created an intense need for the development of more dependable and robust antispam filters. Machine learning methods of recent are being used to successfully detect and filter spam emails. We present a systematic review of some of the popular machine learning based email spam filtering approaches. Our review covers survey of the important concepts, attempts, efficiency, and the research trend in spam filtering.I recommended deep leaning and deep adversarial learning as the future techniques that can effectively handle the menace of spam emails.
+
+## INTRODUCTION
+Emails are important because they creates a fast, reliable form of communication that is free and easily accessible. They allow people to foster long-lasting, long-distance communication. Spam e-mails can be not only annoying but also dangerous to customers. Spam e-mails can be defined as
+
+* Anonymity
+* Mass-Mailing
+* Unsolicited
+
+Spam e-mail messages are randomly sent to multiple addresses by all sort of groups , but mainly by lazy advertisers and criminals who wish to lead you to phishing sites
+
+## DIFFERENCE BETWEEN SPAM AND NORMAL E-MAILS
+
