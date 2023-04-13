@@ -1,10 +1,10 @@
 streamlit
-pickle
-string
 numpy
 pandas
+scipy
+scikit-learn
 nltk
 seaborn
-re
+sklearn
 wordcloud
 xgboost
