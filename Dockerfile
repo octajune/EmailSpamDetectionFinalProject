@@ -14,8 +14,8 @@ RUN apt-get update && apt-get install -y \
 COPY . .
 
 RUN pip3 install -r requirement.txt
-EXPOSE 443
+EXPOSE 80
 RUN python3 nltk_configure.py
 #HEALTHCHECK CMD curl --fail http://localhost:8501/_stcore/health
 
-ENTRYPOINT ["streamlit", "run", "app.py", "--server.port=443", "--server.address=0.0.0.0"]
+ENTRYPOINT ["streamlit", "run", "app.py", "--server.port=80", "--server.address=0.0.0.0"]
