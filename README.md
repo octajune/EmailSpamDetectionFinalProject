@@ -73,7 +73,7 @@ OR
 
 * Go to EmailSpamDetectionFinalProject/app.py
 * Run ``` sudo docker-compose up ``` from the root directory of the application
-* The website must be running on localhost:8051 with help of streamlit
+* The website must be running on ``` localhost:8051 ``` with the help of Streamlit
 
 # Directory Tree
 
