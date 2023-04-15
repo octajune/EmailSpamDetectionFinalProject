@@ -1,5 +1,7 @@
 # EmailSpamDetection 
 
+The website is currently hosted on: https://sejal-spamd.azurewebsites.net/
+
 ## Table of Content
   * Abstract
   * Introduction
