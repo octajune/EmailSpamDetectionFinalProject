@@ -67,6 +67,12 @@ The Code is written in Python 3.9.2. If you don't have Python installed you can 
 
 ``` pip install -r requirements.txt ```
 
+OR
+
+* Go to EmailSpamDetectionFinalProject/app.py
+* Run ``` sudo docker-compose up ``` from the root directory of the application
+* The website must be running on localhost:8051 with help of streamlit
+
 # Directory Tree
 
 ```
